@@ -1,0 +1,2 @@
+First run ./preprocessing.py(need PySpark). It will generate ./test_tmp.csv and ./train_tmp.csv.
+Then run ./model_training_and_testing.py. The answers will be written to the ./data/test_output.csv.
