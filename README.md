@@ -10,7 +10,7 @@ I do the project with my teammate chenyh.  The requirements of this project are 
 
 Please type your Chinese name and ID.
 
-* Your Name: codingnoooob
+* Your Name: Entropy-Fighter
 * Your ID: 2020533xxx
 
 * Your Name: chenyh
